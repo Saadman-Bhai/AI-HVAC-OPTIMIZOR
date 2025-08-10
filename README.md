@@ -1,5 +1,6 @@
 
-Smart HVAC with Reinforcement Learning Simulation
+#Smart HVAC with Reinforcement Learning Simulation
+
 This project is an interactive, single-file web application that simulates a smart HVAC (Heating, Ventilation, and Air Conditioning) system controlled by a simplified reinforcement learning (RL) agent. The primary objective of the AI is to learn how to maintain an optimal room environment by balancing user comfort with energy efficiency.
 
 The entire application is contained within a single index.html file, which makes it incredibly easy to deploy and share directly from a web server or GitHub Pages without any complex build steps.
